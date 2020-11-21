@@ -1,3 +1,3 @@
-# Python_Basic
+# Python_Basic_1
 Задания по курсу Основы языка Python
 Урко 1 - Задния 1-6 
